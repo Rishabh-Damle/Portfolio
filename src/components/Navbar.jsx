@@ -18,7 +18,7 @@ export const Navbar = () => {
       <div className="m-8 flex items-center justify-center gap-4 text-2xl text-neutral-800">
         <span className="cursor-pointer">
           <a
-            href="https://www.linkedin.com/in/vrushabh-damle-2a1817216/"
+            href="https://www.linkedin.com/in/rishabh-damle-2a1817216/"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer hover:text-blue-700 transition-colors"
@@ -28,7 +28,7 @@ export const Navbar = () => {
         </span>
         <span className="cursor-pointer">
           <a
-            href="https://github.com/Vrushabh-Damle"
+            href="https://github.com/Rishabh-Damle"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer hover:text-gray-700 transition-colors"
@@ -38,7 +38,7 @@ export const Navbar = () => {
         </span>
         <span className="cursor-pointer">
           <a
-            href="https://x.com/vrushabhstwtt"
+            href="https://x.com/rishabhstwtt"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer hover:text-black transition-colors"
@@ -48,7 +48,7 @@ export const Navbar = () => {
         </span>
         <span className="cursor-pointer">
           <a
-            href="https://www.instagram.com/vrushabh_damle/"
+            href="https://www.instagram.com/rishabh_damle/"
             target="_blank"
             rel="noopener noreferrer"
             className="cursor-pointer hover:text-pink-600 transition-colors"

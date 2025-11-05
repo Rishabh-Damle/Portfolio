@@ -21,7 +21,7 @@ export const Hero = () => {
               animate="visible"
               className="pb-10 text-6xl font-thin tracking-tight lg:mt-16 lg:text-6xl text-neutral-800 "
             >
-              Vrushabh Damle
+              Rishabh Damle
             </motion.h1>
             <motion.span
               variants={container(0.5)}

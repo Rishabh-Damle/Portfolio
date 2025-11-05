@@ -59,7 +59,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "Alzheimer is a Second Brain application that lets you collect and organize content from multiple sources — such as Twitter, YouTube, and Google Docs — into a centralized knowledge hub, Not only this even you can share your brain with others with just one link and a simple click. ",
-    githubLink: "https://github.com/Vrushabh-Damle/Alzheimer",
+    githubLink: "https://github.com/Rishabh-Damle/Alzheimer",
     technologies: [
       "Tailwind",
       "React",
@@ -74,7 +74,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "Skillio is a full-stack course-selling platform designed to connect learners and instructors. The backend, built with Node.js, Express.js, and MongoDB, powers secure user authentication, course management, and payment processing. The frontend (in development) will offer an engaging interface for exploring, purchasing, and managing courses.",
-    githubLink: "https://github.com/Vrushabh-Damle/Skillio",
+    githubLink: "https://github.com/Rishabh-Damle/Skillio",
     technologies: ["Node.js", "Express.js", "MongoDB", "React.js"],
   },
 
@@ -83,7 +83,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "FoodVilla is a responsive and visually appealing food delivery web application built with React and Tailwind CSS. It allows users to browse restaurants, explore menus, and place orders through an intuitive interface. The backend (in progress) will be developed using Node.js, Express.js, and MongoDB to enable real-time order management and secure data handling.",
-    githubLink: "https://github.com/Vrushabh-Damle/foodvilla",
+    githubLink: "https://github.com/Rishabh-Damle/foodvilla",
     technologies: [
       "React.js",
       "Tailwind CSS",

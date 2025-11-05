@@ -6,7 +6,7 @@ export const Footer = () => {
     <div>
       <div className="flex justify-center ">
         <a
-          href="https://github.com/Vrushabh-Damle/Portfolio"
+          href="https://github.com/Rishabh-Damle/Portfolio"
           target="_blank"
           rel="noopener noreferrer"
           className="relative inline-flex items-center justify-center rounded-full bg-neutral-800 p-3 text-white transition-colors group mt-4"

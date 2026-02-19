@@ -23,7 +23,7 @@ export const Footer = () => {
         <div className="mb-6 mt-4">
           <i className="text-xl font-light text-neutral-600 ">
             {" "}
-            Made with ❤️ by Vrushabh Damle
+            Made with ❤️ by Rishabh Damle
           </i>
         </div>
       </div>

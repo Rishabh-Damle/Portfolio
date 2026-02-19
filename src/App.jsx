@@ -14,8 +14,9 @@ function App() {
         <div className="container mx-auto px-8">
           <Navbar></Navbar>
           <Hero></Hero>
-          <Experience></Experience>
+
           <Projects></Projects>
+          <Experience></Experience>
           <Footer></Footer>
         </div>
       </div>

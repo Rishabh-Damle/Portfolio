@@ -1,6 +1,6 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
+import project1 from "../assets/projects/project1.png";
+import project2 from "../assets/projects/project2.png";
+import project3 from "../assets/projects/project3.png";
 
 export const HERO_CONTENT = `A creative developer who loves building beautiful and functional projects. I combine technical skills with artistic flair to create unique digital experiences.
 `;
@@ -9,7 +9,7 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "12/09/2025 - Present",
+    year: "12/09/2025 - 01/02/2026",
     role: "Junior Software Engineer",
     company: "Cravita Technologies India Private Limited, Pune, Maharashtra",
     description: `
@@ -31,31 +31,11 @@ Currently working on building and optimizing modern web applications that focus 
       "PostgreSQL",
     ],
   },
-  {
-    year: "06/08/2024 - 06/02/2025",
-    role: "Backend Developer Intern",
-    company: "ByteUpRise, Nagpur, Maharashtra, India",
-    description: `Worked on designing and implementing scalable backend systems, focusing on building robust RESTful APIs and efficient data management solutions. Collaborated closely with cross-functional teams to deliver high-quality software while leveraging modern backend technologies for optimal performance.`,
-    technologies: [
-      "Node.js",
-      "TypeScript",
-      "Express.js",
-      "MongoDB",
-      "PostgreSQL",
-    ],
-  },
-  {
-    year: "01/01/2024 - 01/06/2024",
-    role: "Trainee ML Intern",
-    company: "SohamGlobal India Private Limited, Amravati, Maharashtra",
-    description: `Assisted in developing web applications and data-driven solutions, focusing on implementing efficient data storage and management strategies. Collaborated with product managers and cross-functional teams to prioritize features and enhance application performance, gaining hands-on experience in machine learning workflows.`,
-    technologies: ["Python", "Pandas", "NumPy", "MongoDB", "Scikit-learn"],
-  },
 ];
 
 export const PROJECTS = [
   {
-    title: "🧠 Alzheimer – Your Second Brain",
+    title: "Alzheimer – Your Second Brain",
     image: project1,
     description:
       "Alzheimer is a Second Brain application that lets you collect and organize content from multiple sources — such as Twitter, YouTube, and Google Docs — into a centralized knowledge hub, Not only this even you can share your brain with others with just one link and a simple click. ",
@@ -70,26 +50,34 @@ export const PROJECTS = [
     ],
   },
   {
-    title: "🎓 Skillio – Course Selling Application",
+    title: "Paisa-Pe",
     image: project2,
     description:
-      "Skillio is a full-stack course-selling platform designed to connect learners and instructors. The backend, built with Node.js, Express.js, and MongoDB, powers secure user authentication, course management, and payment processing. The frontend (in development) will offer an engaging interface for exploring, purchasing, and managing courses.",
-    githubLink: "https://github.com/Rishabh-Damle/Skillio",
-    technologies: ["Node.js", "Express.js", "MongoDB", "React.js"],
+      "Paisa-Pe is a basic digital wallet and peer-to-peer payment application inspired by platforms like Paytm. It allows users to securely register, manage their balance, and send money to other users using an initial dummy balance. This project focuses on understanding real-world payment flows, authentication, and transaction handling using a modern full-stack setup.",
+    githubLink: "https://github.com/Rishabh-Damle/Paisa-Pe",
+    technologies: [
+      "Tailwind",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Express.js",
+      "MongoDB",
+    ],
   },
 
   {
-    title: "🍔 FoodVilla – Food Delivery Web Application",
+    title: "Chat-Room",
     image: project3,
     description:
-      "FoodVilla is a responsive and visually appealing food delivery web application built with React and Tailwind CSS. It allows users to browse restaurants, explore menus, and place orders through an intuitive interface. The backend (in progress) will be developed using Node.js, Express.js, and MongoDB to enable real-time order management and secure data handling.",
-    githubLink: "https://github.com/Rishabh-Damle/foodvilla",
+      "Chat-Room is a real-time messaging application built using WebSockets to enable seamless, live communication between users. It allows users to connect instantly, exchange messages without page refresh, and experience low-latency conversations. This project focuses on understanding real-time event handling, bidirectional communication, and managing multiple concurrent user connections using a modern full-stack architecture.",
+    githubLink: "https://github.com/Rishabh-Damle/Chat-Room",
     technologies: [
       "React.js",
       "Tailwind CSS",
       "Node.js",
       "Express.js",
       "MongoDB",
+      "WebSocket",
     ],
   },
 ];
